@@ -1,7 +1,6 @@
 # 📧 Job Mailer
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 **Job Mailer** is a robust, product-grade Python automation tool designed to streamline the process of applying for jobs via email. It allows candidates to send personalized cold emails with their resume attached to a list of recruiters or hiring managers, respecting rate limits to avoid spam detection.
@@ -21,7 +20,6 @@
   - [Running the Script](#running-the-script)
 - [🛡️ Security Best Practices](#️-security-best-practices)
 - [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
 - [👤 Author](#-author)
 
 ---
@@ -54,7 +52,6 @@
 Job Mailer/
 ├── .env.example          # Template for environment variables
 ├── .gitignore            # Specifies intentionally untracked files
-├── LICENSE               # MIT License
 ├── README.md             # Project documentation
 ├── SwadeshBackend.pdf    # (Example) Your Resume File
 ├── emails.txt            # List of recipient email addresses
