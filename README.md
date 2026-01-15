@@ -177,18 +177,12 @@ Contributions are welcome! If you'd like to improve this project:
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
----
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
 
 ## 👤 Author
 
 **Swadesh Chatterjee**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [swadesh-231](https://github.com/swadesh-231)
 - LinkedIn: [Swadesh Chatterjee](https://linkedin.com/in/yourprofile)
 
 ---
